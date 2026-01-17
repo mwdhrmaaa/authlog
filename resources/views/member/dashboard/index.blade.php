@@ -31,7 +31,7 @@
                 @endif
                 <div>
                     <h1 class="text-4xl font-bold tracking-tight">Halo, {{ $user->name }}!</h1>
-                    <p class="text-gray-400 mt-1">Anda berhasil login menggunakan Google.</p>
+                    <p class="text-gray-400 mt-1 italic tracking-wide">Welcome back, Emperor! The realm is under your command. ✨</p>
                 </div>
             </div>
         </div>
